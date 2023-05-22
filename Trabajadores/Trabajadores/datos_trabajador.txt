@@ -1,0 +1,7 @@
+----------------------------------------------
+DNI: 123
+Nombre: asd
+Teléfono: 123232323
+Puesto: Operario
+Tipo de contrato: Indefinido
+Días trabajados: 30
